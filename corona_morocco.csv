@@ -1,4 +1,4 @@
-﻿Date,Confirmed,Deaths,Recovered,Excluded,Beni Mellal-Khenifra,Casablanca-Settat,Draa-Tafilalet,Dakhla-Oued Ed-Dahab,Fes-Meknes,Guelmim-Oued Noun,Laayoune-Sakia El Hamra,Marrakesh-Safi,Oriental,Rabat-Sale-Kenitra,Souss-Massa,Tanger-Tetouan-Al Hoceima
+Date,Confirmed,Deaths,Recovered,Excluded,Beni Mellal-Khenifra,Casablanca-Settat,Draa-Tafilalet,Dakhla-Oued Ed-Dahab,Fes-Meknes,Guelmim-Oued Noun,Laayoune-Sakia El Hamra,Marrakesh-Safi,Oriental,Rabat-Sale-Kenitra,Souss-Massa,Tanger-Tetouan-Al Hoceima
 02/03/2020,1,,,28,,1,,,,,,,,,,
 03/03/2020,,,,32,,,,,,,,,,,,
 04/03/2020,2,,,34,,2,,,,,,,,,,
@@ -95,3 +95,8 @@
 03/06/2020,7922,206,6866,239902,119,2683,586,4,1002,45,4,1361,186,711,88,1124
 04/06/2020,8003,208,7195,253007,120,2696,585,4,1017,44,4,1393,187,713,88,1146
 05/06/2020,8071,208,7268,267278,120,2714,585,4,1016,45,4,1423,192,718,88,1154
+06/06/2020,8151,208,7315,281306,119,2759,586,4,1018,44,4,1436,193,722,88,1168
+07/06/2020,8224,208,7364,297729,125,2767,586,4,1026,45,4,1450,194,748,89,1181
+08/06/2020,8302,208,7408,314401,127,2777,586,4,1026,45,4,1481,195,776,89,1186
+09/06/2020,8437,210,7493,331134,127,2855,586,5,1031,46,5,1495,195,777,90,1220
+10/06/2020,8508,211,7565,347543,126,2868,586,5,1031,45,5,1526,195,785,90,1243
